@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jalihara</string>
+    <string name="open_nav">Open Jalihara</string>
+    <string name="close_nav">close Jalihara</string>
+    <string name="subHeader">Discover Art Performance Near You</string>
+    <string name="subHeaderShow">Jalihara Top Shows</string>
+    <string name="seeAll"><u>See All</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AboutUs">Jalihara is a mobile app developed by BINUS college students. It is aimed to help people from various ranges of age to find and buy art performance tickets. Developed in early 2023, JalIhara is now the biggest art show ticket platform in the world.</string>
+
+    <!--    <string name="seeAll">See All</string>-->
+</resources>
